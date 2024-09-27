@@ -1,0 +1,3 @@
+hello hadoop
+hello bigdata
+hadoop is great
